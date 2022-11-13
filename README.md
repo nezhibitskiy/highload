@@ -66,7 +66,7 @@
 
 ## Логическая схема БД
 
-![image](https://user-images.githubusercontent.com/71338063/201521947-5fc6eaac-10a3-40b1-bc8f-4dd97ae73d15.png)
+![image](https://user-images.githubusercontent.com/71338063/201523548-9f9ac44f-49de-4c7e-a395-4f49aabaee7c.png)
 
 Примерный расчет размера таблиц:
 
